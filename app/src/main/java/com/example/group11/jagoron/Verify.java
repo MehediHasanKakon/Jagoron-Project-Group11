@@ -17,6 +17,7 @@ import android.os.Build;
 public class Verify extends Activity {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 =======
 	@Override
@@ -96,4 +97,7 @@ public class Verify extends Activity {
 	}
 
 >>>>>>> Maria
+=======
+	
+>>>>>>> Mou
 }

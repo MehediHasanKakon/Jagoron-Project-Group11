@@ -21,7 +21,36 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity{
 
+<<<<<<< HEAD
 	
+=======
+	TextView banglaTextView;
+
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+		banglaTextView = (TextView) findViewById(R.id.textView1);
+		Typeface myCustomFont = Typeface.createFromAsset(getAssets(), "fonts/SutonnyOMJ.ttf");
+		banglaTextView.setTypeface(myCustomFont);
+
+	}
+
+
+
+    public void verify(View v){
+		Intent Main = new Intent(this, Verify.class);
+		startActivity(Main);
+
+		}
+    public void register(View v){
+		Intent i_register=new Intent(MainActivity.this,Register.class);
+		startActivity(i_register);
+		}
+
+
+>>>>>>> Mou
 
 
 

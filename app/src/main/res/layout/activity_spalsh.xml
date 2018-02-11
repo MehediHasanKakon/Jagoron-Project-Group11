@@ -9,6 +9,7 @@
     tools:context="com.example.group11.jagoron.spalsh">
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 =======
 	<ImageView
@@ -24,5 +25,8 @@
 		tools:layout_editor_absoluteY="262dp" />
 
 >>>>>>> Maria
+=======
+	
+>>>>>>> Mou
 
 </RelativeLayout>

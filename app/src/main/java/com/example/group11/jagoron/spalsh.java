@@ -8,6 +8,7 @@ import android.view.Window;
 public class spalsh extends AppCompatActivity {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
    
 =======
     @Override
@@ -31,4 +32,7 @@ public class spalsh extends AppCompatActivity {
         myThread.start();
     }
 >>>>>>> Maria
+=======
+   
+>>>>>>> Mou
 }

@@ -17,6 +17,7 @@ public class RGeocoder {
 	
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     
 =======
     private static final String TAG = "LocationAddress";
@@ -89,4 +90,7 @@ public class RGeocoder {
 =======
     
 >>>>>>> Maria
+=======
+    
+>>>>>>> Mou
 }

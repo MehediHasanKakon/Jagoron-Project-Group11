@@ -11,6 +11,7 @@ public class Instructions extends Activity {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	TextView banglaTextView;
 
 	@Override
@@ -28,4 +29,7 @@ public class Instructions extends Activity {
 =======
 	
 >>>>>>> Maria
+=======
+	
+>>>>>>> Mou
 }
