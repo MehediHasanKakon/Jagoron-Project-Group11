@@ -21,6 +21,7 @@ public class Display extends Activity implements ShakeDetector.Listener{
 	
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Cursor c;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -95,6 +96,8 @@ public class Display extends Activity implements ShakeDetector.Listener{
 	
 =======
 >>>>>>> Rocky
+=======
+>>>>>>> Maria
 	
 
 }
@@ -107,7 +110,10 @@ public class Display extends Activity implements ShakeDetector.Listener{
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
 >>>>>>> Rocky
+=======
+>>>>>>> Maria

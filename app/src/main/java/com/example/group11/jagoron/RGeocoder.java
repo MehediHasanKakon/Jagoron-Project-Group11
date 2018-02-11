@@ -16,6 +16,7 @@ import android.widget.Toast;
 public class RGeocoder {
 	
 <<<<<<< HEAD
+<<<<<<< HEAD
     
 =======
     private static final String TAG = "LocationAddress";
@@ -85,4 +86,7 @@ public class RGeocoder {
 
 	}
 >>>>>>> Rocky
+=======
+    
+>>>>>>> Maria
 }

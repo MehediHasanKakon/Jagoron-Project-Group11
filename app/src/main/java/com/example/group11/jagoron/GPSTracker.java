@@ -16,6 +16,7 @@ import android.util.Log;
 public class GPSTracker extends Service implements LocationListener {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	private final Context mContext;
 
 	// flag for GPS status
@@ -201,5 +202,8 @@ public class GPSTracker extends Service implements LocationListener {
 =======
 	
 >>>>>>> Rocky
+=======
+	
+>>>>>>> Maria
 
 }

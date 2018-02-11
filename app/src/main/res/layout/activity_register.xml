@@ -6,6 +6,7 @@
     tools:context=".Register" >
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     
 =======
     <TextView
@@ -88,4 +89,7 @@
         android:textColor="#FFFFFF"/>
 
 >>>>>>> Rocky
+=======
+    
+>>>>>>> Maria
 </RelativeLayout>

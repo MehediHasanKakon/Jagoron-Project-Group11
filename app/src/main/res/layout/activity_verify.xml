@@ -6,8 +6,11 @@
     tools:context=".Verify" >
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     
 =======
+=======
+>>>>>>> Maria
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -45,7 +48,10 @@
 
         <requestFocus />
     </EditText>
+<<<<<<< HEAD
 >>>>>>> Rocky
+=======
+>>>>>>> Maria
 
 
 </RelativeLayout>

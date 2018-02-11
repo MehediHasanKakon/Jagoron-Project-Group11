@@ -10,6 +10,7 @@ import android.widget.TextView;
 public class Instructions extends Activity {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	TextView banglaTextView;
 
 	@Override
@@ -24,4 +25,7 @@ public class Instructions extends Activity {
 =======
 	
 >>>>>>> Rocky
+=======
+	
+>>>>>>> Maria
 }
