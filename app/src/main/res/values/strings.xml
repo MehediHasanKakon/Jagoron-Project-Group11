@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Jagoron</string>
+    <string name="title_activity_display">Display</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_instructions">Instructions</string>
+    <string name="title_activity_navigation_dr">navigation_dr</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="ins_texts">
+        ১. জরুরী মুহুর্তে যোগাযোগের জন্য আপনার আস্থাবান লোকদের মোবাইল নাম্বার প্রেরণ করুন।
+        যদি কখনো কোন সমস্যার সম্মুখীন হোন তাহলে উক্ত নাম্বারগুলোতে আপনার লোকেশন সহ ম্যাসেজ চলে যাবে।
+        এই কাজের জন্য আপনার ইন্টারনেট কানেকশন এবং মোবাইল ব্যালেন্স থাকা লাগবে।
+
+        \n
+        \n
+
+        ২.কোন পরিস্থিতিতে আপনি অনিরাপদ অনুভব করলে অ্যাপটি অন করে মোবাইলটি ঝাকি দিন। সাথে সাথে আপনার বার্তা আপনার প্রিয়জনের কাছে চলে যাবে।
+
+    </string>
+
+
+</resources>
