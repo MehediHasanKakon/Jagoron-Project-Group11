@@ -9,6 +9,7 @@ import android.widget.TextView;
 
 public class Instructions extends Activity {
 
+<<<<<<< HEAD
 	TextView banglaTextView;
 
 	@Override
@@ -20,4 +21,7 @@ public class Instructions extends Activity {
 		Typeface myCustomFont = Typeface.createFromAsset(getAssets(),"fonts/SutonnyOMJ.ttf");
 		banglaTextView.setTypeface(myCustomFont);
 	}
+=======
+	
+>>>>>>> Rocky
 }

@@ -6,6 +6,7 @@
     android:background="#000000">
 
 
+<<<<<<< HEAD
     <TextView
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
@@ -29,6 +30,9 @@
         android:onClick="back"
         android:text="মেইন মেনুতে ফিরে যান"
         android:textColor="#FFFFFF" />
+=======
+    
+>>>>>>> Rocky
 
 
 </RelativeLayout>

@@ -5,5 +5,87 @@
     android:background="@color/colorPrimary"
     tools:context=".Register" >
 
+<<<<<<< HEAD
     
+=======
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="64dp"
+        android:text=" নিকটজনের  নামঃ"
+        android:textColor="#FFFFFF"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView1"
+        android:layout_below="@+id/editText1"
+        android:layout_marginTop="22dp"
+        android:text=" মোবাইল নাম্বার:"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_below="@+id/editText2"
+        android:layout_marginStart="79dp"
+        android:layout_marginTop="44dp"
+        android:background="@color/colorPrimaryDark"
+        android:onClick="storeInDB"
+        android:text=" তালিকা  করুন"
+        android:textColor="#FFFFFF" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView2"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_alignStart="@+id/button1"
+        android:ems="10"
+        android:layout_marginLeft="15dp"
+        android:textColor="#FFFFFF"
+        android:hint="Mobile Number"
+        android:inputType="phone" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView1"
+        android:layout_alignBottom="@+id/textView1"
+        android:layout_alignStart="@+id/editText2"
+        android:ems="10"
+        android:layout_marginLeft="15dp"
+        android:hint="Person Name"
+        android:textColor="#FFFFFF"
+        android:inputType="textPersonName">
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/button3"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+
+        android:layout_alignStart="@+id/button1"
+        android:layout_below="@+id/button1"
+        android:layout_marginTop="27dp"
+        android:onClick="display"
+        android:text="  তালিকাভুক্ত গুলো দেখুন"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#FFFFFF"/>
+
+>>>>>>> Rocky
 </RelativeLayout>

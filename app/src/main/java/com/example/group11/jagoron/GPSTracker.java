@@ -15,6 +15,7 @@ import android.util.Log;
 
 public class GPSTracker extends Service implements LocationListener {
 
+<<<<<<< HEAD
 	private final Context mContext;
 
 	// flag for GPS status
@@ -197,5 +198,8 @@ public class GPSTracker extends Service implements LocationListener {
 	public IBinder onBind(Intent arg0) {
 		return null;
 	}
+=======
+	
+>>>>>>> Rocky
 
 }
