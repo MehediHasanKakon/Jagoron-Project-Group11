@@ -18,6 +18,9 @@ public class GPSTracker extends Service implements LocationListener {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Kakon
 	private final Context mContext;
 
 	// flag for GPS status
@@ -200,6 +203,7 @@ public class GPSTracker extends Service implements LocationListener {
 	public IBinder onBind(Intent arg0) {
 		return null;
 	}
+<<<<<<< HEAD
 =======
 	
 >>>>>>> Rocky
@@ -209,5 +213,7 @@ public class GPSTracker extends Service implements LocationListener {
 =======
 	
 >>>>>>> Mou
+=======
+>>>>>>> Kakon
 
 }

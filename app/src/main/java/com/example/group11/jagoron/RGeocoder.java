@@ -18,6 +18,7 @@ public class RGeocoder {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     
 =======
     private static final String TAG = "LocationAddress";
@@ -93,4 +94,7 @@ public class RGeocoder {
 =======
     
 >>>>>>> Mou
+=======
+    
+>>>>>>> Kakon
 }

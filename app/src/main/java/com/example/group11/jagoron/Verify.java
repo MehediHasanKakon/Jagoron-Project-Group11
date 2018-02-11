@@ -18,6 +18,7 @@ public class Verify extends Activity {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 =======
 	@Override
@@ -100,4 +101,7 @@ public class Verify extends Activity {
 =======
 	
 >>>>>>> Mou
+=======
+	
+>>>>>>> Kakon
 }

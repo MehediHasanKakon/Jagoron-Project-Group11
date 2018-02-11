@@ -9,6 +9,7 @@ public class spalsh extends AppCompatActivity {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
    
 =======
     @Override
@@ -35,4 +36,7 @@ public class spalsh extends AppCompatActivity {
 =======
    
 >>>>>>> Mou
+=======
+   
+>>>>>>> Kakon
 }

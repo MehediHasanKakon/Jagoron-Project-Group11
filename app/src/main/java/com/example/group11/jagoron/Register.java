@@ -14,6 +14,7 @@ import android.widget.Toast;
 public class Register extends Activity {
 	
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 =======
 	EditText name,number;
@@ -80,5 +81,8 @@ public class Register extends Activity {
 	
 
 >>>>>>> Mou
+=======
+	
+>>>>>>> Kakon
 
 }

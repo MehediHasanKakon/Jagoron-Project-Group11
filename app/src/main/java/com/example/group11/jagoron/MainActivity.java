@@ -22,6 +22,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity{
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 =======
 	TextView banglaTextView;
@@ -51,6 +52,9 @@ public class MainActivity extends AppCompatActivity{
 
 
 >>>>>>> Mou
+=======
+	
+>>>>>>> Kakon
 
 
 

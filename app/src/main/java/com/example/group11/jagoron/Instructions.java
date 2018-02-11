@@ -12,6 +12,9 @@ public class Instructions extends Activity {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Kakon
 	TextView banglaTextView;
 
 	@Override
@@ -23,6 +26,7 @@ public class Instructions extends Activity {
 		Typeface myCustomFont = Typeface.createFromAsset(getAssets(),"fonts/SutonnyOMJ.ttf");
 		banglaTextView.setTypeface(myCustomFont);
 	}
+<<<<<<< HEAD
 =======
 	
 >>>>>>> Rocky
@@ -32,4 +36,6 @@ public class Instructions extends Activity {
 =======
 	
 >>>>>>> Mou
+=======
+>>>>>>> Kakon
 }

@@ -9,6 +9,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Kakon
     <TextView
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
@@ -32,6 +35,7 @@
         android:onClick="back"
         android:text="মেইন মেনুতে ফিরে যান"
         android:textColor="#FFFFFF" />
+<<<<<<< HEAD
 =======
     
 >>>>>>> Rocky
@@ -41,6 +45,8 @@
 =======
     
 >>>>>>> Mou
+=======
+>>>>>>> Kakon
 
 
 </RelativeLayout>
