@@ -15,16 +15,16 @@ After Installing:
 
 Technical things to know:
 Java codes :
-1.	AccelerometerListener.java : It is for measuring shake of the phone.
-2.	AccerometerManager.java : It is for managing the shake  to activate some codes.
-3.	BgService.java : It is for maintainance and monitoring. 
-4.	Display.java : It is for displaying.
-5.	GPSTracker.java : It is for tracking location.
-6.	Instructions.java : It is for executing instructions.
-7.	MainActivity.java : It is for main program and instructions.
-8.	Register.java : It is for registering information.
-9.	RGeocoder.java : A class for handling geocoding and reverse geocoding.
-10.	Verify.java : A program for verifying information.
+
+ 
+1.	Display.java : It is for displaying.
+2.	GPSTracker.java : It is for tracking location.
+3.	Instructions.java : It is for executing instructions.
+4.	MainActivity.java : It is for main program and instructions.
+5.	RGeocoder.java : A class for handling geocoding and reverse geocoding.
+6.	Register.java : It is for registering information.
+7.	Verify.java : A program for verifying information.
+8.	Splash.java : It is for maintainance and monitoring.
 
 
 XML codes:
